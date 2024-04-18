@@ -1,0 +1,32 @@
+body{
+    background-color: aquamarine;
+}
+.pixeles{
+    font-family: cursive;
+    font-size: 18px;
+}
+.Porcentaje{
+    font-family: cursive;
+    font-size: 110%;
+} 
+.Puntos{
+    font-family: cursive; 
+    font-size: 14pt;
+} 
+.Em{
+    font-family: cursive;
+    font-size: 1.2em;
+}
+.Rem{
+    font-family: cursive;
+    font-size: 1.2rem;
+}
+    
+.cm{
+    font-family: cursive;
+    font-size: 0.5cm;
+} 
+li{
+    font-family: cursive;
+    font-size: 1.2rem;
+}
